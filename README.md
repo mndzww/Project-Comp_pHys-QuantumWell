@@ -6,4 +6,5 @@ Projek ini menekankan bahwa banyak pengaplikasian dalam dunia fisika yang bisa k
 1. Numerical Differentiation
 2. Integral Differentiation 
 3. Eigen Function & Values
+
 kita bisa membahasakan konsep fisika modern tingkat lanjut dengan pendekatan metode numerik yang telah disebutkan diatas
