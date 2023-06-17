@@ -16,5 +16,5 @@ Program dapat dijalankan dengan mengeksekusi skrip di Python Environment. Setela
   3. Exit Program
 Dan user bisa memasukkan pilihan menu yang dinginkan
 
-#Acknowledgement 
+# Acknowledgement 
 Program ini menggunakan metode Pangkat, Diferensiasi Numerik dan Integrasi Numerik untuk menampilkan fungsi gelombang dan menentukan energi eksitasi. Program ini menggunakan library matplotlib untuk membantu memvisualisasikan fungsi gelombang yang telah diselesaikan oleh metode metode yang telah dijelaskan diatas
