@@ -1,13 +1,23 @@
 # Project-Comp_pHys-QuantumWell
-Untuk pembatasan makna quantum well, kami akan lebih membahas tentang Sumur Kuantum Tak-hingga dengan mengabaikan parameter waktu atau disingkat dengan TISE (Time-Independent Schrodinger Equation). 
+Untuk pembatasan makna quantum well, akan lebih membahas tentang Sumur Kuantum Tak-hingga dengan mengabaikan parameter waktu atau disingkat dengan TISE (Time-Independent Schrodinger Equation). 
+
+# Something Different 
+Pada proyek akhir praktikum komputasi numerik ini, tidak hanya di-deploy melalui terminal saja, sistem ini akan lebih dikembangkan untuk bisa di-deploy melalui GUI (Graphical User Interface) dan melalui website berbasis HTML.
+
+# Getting Started
+untuk mendeploy program ini, kamu harus mempunyai library yang sudah terinstall seperti : 
+   1. Numpy
+   2. Matplotib
+   3. Easygui
+   4. CSV
 
 # Modul Equipment
-Projek ini menekankan bahwa banyak pengaplikasian dalam dunia fisika yang bisa kita bahasakan kedalam bentuk numerikal algoritma. dengan modul 
+Projek ini menekankan bahwa banyak pengaplikasian dalam dunia fisika yang bisa bahasakan kedalam bentuk numerikal algoritma. dengan modul 
 1. Numerical Differentiation
 2. Integral Differentiation 
 3. Eigen Function & Values
 
-kita bisa menjelaskan konsep fisika modern tingkat lanjut dengan pendekatan metode numerik yang telah disebutkan diatas
+sistem ini bisa menjelaskan konsep fisika modern tingkat lanjut dengan pendekatan metode numerik yang telah disebutkan diatas
 
 # Output Program
 Program dapat dijalankan dengan mengeksekusi skrip di Python Environment. Setelah menjalankan program, pengguna akan disajikan dengan menu opsi:
