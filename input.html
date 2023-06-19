@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Data - Quantum Physics</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <div id="header-content">
+            <h1>Time Independent Schrodinger === Equation (TISE) solver === </h1>
+            <p>Lets explore the Quantum World</p>
+        </div>
+    </header>
+
+    <section id="input-section">
+        <form id="input-form" action="/result" method="post">
+            <label for="a">Value of Quantum Well Length (m) :</label>
+            <input type="text" id="a" name="a" placeholder="Enter value of Length" required><br><br>
+            <label for="m">Value of mass of particle (kg):</label>
+            <input type="text" id="m" name="m" placeholder="Enter value of mass" required><br><br>
+            <input type="submit" value="Submit">
+        </form>
+    </section>
+
+    <section id="result-section" style="display: none;">
+        <h2>Result</h2>
+        <h3>ψ²</h3>
+        <div id="chart-container" class="canvas-container"></div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Quantum Physics. All rights reserved.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
