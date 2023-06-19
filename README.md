@@ -1,8 +1,8 @@
 # Project-Comp_pHys-QuantumWell
-Untuk pembatasan makna quantum well, akan lebih membahas tentang Sumur Kuantum Tak-hingga dengan mengabaikan parameter waktu atau disingkat dengan TISE (Time-Independent Schrodinger Equation). 
+Untuk pembatasan makna quantum well, akan lebih membahas tentang Sumur Kuantum Tak-hingga dengan mengabaikan parameter waktu atau disingkat dengan TISE (Time-Independent Schrodinger Equation).
 
 # Something Different 
-Pada proyek akhir praktikum komputasi numerik ini, tidak hanya di-deploy melalui terminal saja, sistem ini akan lebih dikembangkan untuk bisa di-deploy melalui GUI (Graphical User Interface) dan melalui website berbasis HTML.
+Pada proyek akhir praktikum komputasi numerik ini, tidak hanya di-deploy melalui terminal saja, sistem ini akan lebih dikembangkan untuk bisa di-deploy melalui GUI (Graphical User Interface) dan melalui website berbasis HTML seperti simulasi konsep fisika dengan phET.colorado
 
 # Getting Started
 untuk mendeploy program ini, kamu harus mempunyai library yang sudah terinstall seperti : 
